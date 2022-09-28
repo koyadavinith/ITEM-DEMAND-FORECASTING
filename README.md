@@ -14,7 +14,11 @@ Predict the demand for the next 3 months at the item level (i.e. all the stores 
 
 
 ## Data
-The historical sales data is available as **l**. The item,store and sales details are provided at the daily level
+The historical sales data is available as :
+Train data as-->**item**
+Test data as--> **sales_demans_data.csv**
+
+The item,store and sales details are provided at the daily level
 for a 4 year span
 
 ## Here's what is covered
